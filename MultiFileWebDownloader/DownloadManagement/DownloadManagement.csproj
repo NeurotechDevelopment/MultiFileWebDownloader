@@ -40,6 +40,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AutoIncrementChapterPartStrategy.cs" />
+    <Compile Include="FilenameParts.cs" />
+    <Compile Include="FilenameVariatorStrategy.cs" />
     <Compile Include="WebFileDownloader.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
